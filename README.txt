@@ -36,3 +36,7 @@
 	
 	HINTS:
 		You can use LinQ and be mindful about OOP and SOLID
+
+
+
+SEE THE FILE INSIDE OF THIS PATH C:\Users\{{Name}}\Desktop\FilterByTags\bin\Debug\net7.0
